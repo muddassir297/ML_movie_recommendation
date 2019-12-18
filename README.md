@@ -8,7 +8,7 @@ Data sets are taken from below source<br>
 <a href="https://grouplens.org/datasets/movielens/25m/">https://grouplens.org/datasets/movielens/25m/</a>
 ## Note 
 In each folder there are description given to that related methodologies.
-## Authors
+## Author
 Muddassir Hussain 
 ## Project Date
 20.12.2019
