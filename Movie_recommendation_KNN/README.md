@@ -18,11 +18,6 @@ recommend_movie(
 ## Output
 
 ```javascript
-You have input movie: Iron Man
-Found possible matches in our database: ['Iron Man (2008)', 'Iron Man 3 (2013)', 'Iron Man 2 (2010)']
-
-Recommendation system start to make inference
-......
 
 Recommendations for Iron Man:
 1: Bourne Ultimatum, The (2007), with distance of 0.4217848777770996
