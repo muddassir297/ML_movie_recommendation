@@ -1,9 +1,9 @@
 # About
 This code source contains the recommendation system using **K Nearest Neighbor**.
 ### Code Description
-* movies_KNN.py file contains all the data processing and training the model upon running the file, model is saved in "models" folder which will be used for testing purposes.
-* recommend_movies.py file contains the testing method as well as getting matching movies and recommended movies.
-* For this Recommendation system movies.csv and ratings.csv files are are taken from data source and movieId, title, genres and userId, movieId coulmns are considered respectively to feed the model
+* ***movies_KNN.py*** file contains all the data processing and training the model upon running the file, model is saved in "models" folder which will be used for testing purposes.
+* ***recommend_movies.py*** file contains the testing method as well as getting matching movies and recommended movies.
+* For this Recommendation system ***movies.csv*** and ***ratings.csv*** files are are taken from data source and movieId, title, genres and userId, movieId coulmns are considered respectively to feed the model
 ## Query
 ```javascript
 my_favorite = 'Iron Man'
