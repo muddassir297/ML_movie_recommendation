@@ -1,5 +1,5 @@
 # About
-This code source contains the collaborative Recommendation system using **Embedding CNN**.
+This code source contains the Collaborative Recommendation system using **Embedding CNN**.
 ### Code Description
 * ***movies_CNN.py*** file contains all the data processing and all the veriable which are needed to feed the CNN model are created.
 * ***movies_embed_Class.py*** file contains Embedding class which is used in train the model.
