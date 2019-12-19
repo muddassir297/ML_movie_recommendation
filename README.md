@@ -11,7 +11,7 @@ In each folder there are description given to that related methodologies.
 ## Author
 Muddassir Hussain<br>
 AI Machine Learning Module<br>
-SRH Hochschule Heidelberg, October 2018 batch
+SRH Hochschule Heidelberg, ***October 2018 batch***
 ## Project Date
 20.12.2019
 
